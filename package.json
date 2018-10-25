@@ -1,0 +1,17 @@
+{
+  "name": "image-optimization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "optimazed": "node ./src/optimazed.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-keep-folder": "^5.3.2",
+    "imagemin-pngquant": "^6.0.0"
+  },
+  "dependencies": {}
+}
