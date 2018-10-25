@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "optimazed": "node ./src/optimazed.js"
+    "optimization": "node ./src/optimazed.js"
   },
   "author": "",
   "license": "ISC",
